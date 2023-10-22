@@ -34,13 +34,12 @@ Eco Pulse is a web application that provides tools for analyzing, visualizing, a
    git clone https://github.com/yourusername/eco-pulse.git
 Navigate to the project directory:
 
-bash
-Copy code
+
 cd eco-pulse
 Install the required Python packages:
 
-bash
-Copy code
+
+
 pip install -r requirements.txt
 Usage
 Data Preprocessing in MATLAB (if needed):
